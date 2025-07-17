@@ -33,7 +33,7 @@ go run dayX-topic.go
 ## YouTube Shorts
 
 I’m also posting a **short video every day** for each topic:  
-▶️ [Watch the Playlist](https://youtube.com/@TigerXInsights/shorts)
+▶️ [Watch the Playlist](https://youtube.com/playlist?list=PLUzbVPoEA1UvHzVGJ2Bgliy4Sjh5v5o14&si=gcPx6Ky4PGyOKSlq)
 
 ## How to Contribute?
 
