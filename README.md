@@ -55,4 +55,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Let’s gooo 🚀  
 No break, no excuses — just Go 🔥
 
+## Author
+
+Made with ❤️ by Tiger
+
 ---
