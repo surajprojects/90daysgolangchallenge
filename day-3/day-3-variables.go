@@ -16,6 +16,7 @@ func main() {
 	var e int
 	fmt.Println(e)
 
+	// Shorthand to declare and initialize the variable.
 	f := "apple"
 	fmt.Println(f)
 }
