@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	p := filepath.Join("dir1", "subdir1", "file.txt")
+	p := filepath.Join("day-68", "example", "file.txt")
 	fmt.Println("Path:", p)
 
 	fmt.Println("Base:", filepath.Base(p))
