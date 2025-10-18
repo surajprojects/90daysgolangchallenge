@@ -7,7 +7,8 @@ import (
 
 func main() {
 	// Run "echo Hello Tiger" command
-	cmd := exec.Command("echo", "Hello Tiger 🐯")
+	// cmd := exec.Command("echo", "Hello Tiger 🐯")
+	cmd := exec.Command("cmd", "/C", "echo Hello Tiger 🐯")
 	output, err := cmd.Output()
 	if err != nil {
 		fmt.Println("Error:", err)
